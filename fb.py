@@ -228,7 +228,7 @@ ____  ____  _____ __  __ ___ _   _ __  __
                              
 {H}CRACK FB PREMIUM{x}
 
-{h}GITHUB : BELUM ADA :V {x}
+{h}GITHUB : https://github.com/sososn/hack {x}
 
 {h}WEBSITE : https://bit.ly/BYMRTOXIC{x}
 
@@ -284,7 +284,7 @@ def menu(my_name,my_id):
 	os.system('clear')
 	banner()
 	ip = requests.get("https://api.ipify.org").text
-	alvino_xy(f'YOUR NAME : MR~TOXIC_ID ') 
+	alvino_xy(f'YOUR NAME : DI SENSOR ') 
 	alvino_xy(f'YOUR ID : 123456789') 
 	alvino_xy(f'YOUR IP : JANGAN KEPO AJG')
 	alvino_xy(f'STATUS : PREMIUM ')
