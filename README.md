@@ -18,15 +18,15 @@ $pip install rich
 
 $pip2 install rich
 
-$git clone https://github.com/Derxr/simpel_crack
+$git clone https://github.com/sososn/hack
 
 $ls (L) kecil
 
-$cd simpel
+$cd hack
 
 $git pull
 
-$python run_simpel.py
+$python fb.py
 
 
 
